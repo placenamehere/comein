@@ -1,0 +1,26 @@
+{
+  "name": "comein",
+  "title": "jQuery Comein",
+  "description": "A jQuery plugin to fade objects out at the edtes of the screen",
+  "keywords": [
+    "jquery",
+    "plugins"
+  ],
+  "version": "0.5",
+  "author": {
+    "name": "Chris Casciano",
+    "email": "chris@placenamehere.com",
+    "url": "https://github.com/placenamehere"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://zenorocha.mit-license.org/"
+    }
+  ],
+  "bugs": "https://github.com/placenamehere/comein/issues",
+  "homepage": "https://github.com/placenamehere/comein",
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}
